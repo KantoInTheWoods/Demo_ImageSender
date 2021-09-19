@@ -25,10 +25,10 @@ Tested on ...
 How to Use
 -------------------
 
-Check [Readme.pdf] or [Youtube]
+Check [Readme.pdf] or [Youtube Channel].
 
 [Readme.pdf]: https://github.com/KantoInTheWoods/Demo_ImageSender/blob/main/Readme.pdf
-[Youtube]: https://youtu.be/Pn_PIkNTV-U
+[Youtube Channel]: https://youtu.be/vI4wfJxRWNs
 
 License
 -------------------
