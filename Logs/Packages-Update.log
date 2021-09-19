@@ -1,0 +1,45 @@
+
+=== Mon Apr 26 14:45:04 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ide.visualstudio@2.0.7
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 7.5.1 to 11.0.0
+
+=== Sun May  2 23:11:10 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 8.2.0 to 11.0.0
+
+=== Thu May 20 23:13:12 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 7.5.3 to 11.0.0
+
+=== Sat Aug 14 06:02:23 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.render-pipelines.universal from version 7.5.3 to 11.0.0
+
+=== Sun Aug 22 17:04:59 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.nvidia@1.0.0
+The following packages were updated:
+  com.unity.ide.visualstudio from version 2.0.7 to 2.0.8
+  com.unity.render-pipelines.universal from version 7.5.3 to 12.0.0
